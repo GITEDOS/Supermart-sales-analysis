@@ -105,9 +105,10 @@ This dataset includes:
    - Charts & Graphs  
    - Key Sales Trends  
 3. **Analyze insights** and make data-driven decisions.
-4. **Download the dataset**:[supermart sales.pbix]
+4. **Download the dataset**:[supermart sales.pbix](#)
 5. **Open in Power bi** and explore: 
    - Charts & Graphs  
-   - Key Sales Trends  
+   - Key Sales Trends
+6. 
 
 ---
