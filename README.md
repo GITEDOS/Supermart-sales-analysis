@@ -83,18 +83,8 @@ This dataset includes:
 ---
 
 ## **Tools Used**  
-**Excel** – Pivot Tables, Formulas, Charts, and Dashboards 
+**Excel** – Pivot Tables, Formulas, Charts, and Dashboards.
 **Power Bi** - Dashboards 
-
----
-
-## **How to Use This Project**  
-1. **Download the dataset**: [supermart_sales_data.xlsx](#)  
-2. **Open in Excel** and explore:  
-   - Pivot Tables  
-   - Charts & Graphs  
-   - Key Sales Trends  
-3. **Analyze insights** and make data-driven decisions.  
 
 ---
 
@@ -105,5 +95,19 @@ This dataset includes:
 ![2025-02-28 (3)](https://github.com/user-attachments/assets/74cd1ca2-1301-422e-966b-d49c17b842af)
 ![2025-02-28 (4)](https://github.com/user-attachments/assets/2b25225c-007a-4dc9-9f42-4db05d91088c)
 
+
+---
+
+## **How to Use This Project**  
+1. **Download the dataset**: [supermart_sales_data.xlsx](#)  
+2. **Open in Excel** and explore:  
+   - Pivot Tables  
+   - Charts & Graphs  
+   - Key Sales Trends  
+3. **Analyze insights** and make data-driven decisions.
+4. **Download the dataset**:[supermart sales.pbix]
+5. **Open in Power bi** and explore: 
+   - Charts & Graphs  
+   - Key Sales Trends  
 
 ---
