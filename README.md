@@ -67,7 +67,7 @@ This dataset includes:
 - **Shampoo** had the highest **average profit margin** at **35.33%**, making it the most profitable product.  
 
 ✔ **Recommendation:**  
-- Prioritize marketing and sales for high-margin products like **Sampo**.  
+- Prioritize marketing and sales for high-margin products like **Shampoo**.  
 - Identify similar high-margin opportunities to boost overall profitability.  
 
 ---
