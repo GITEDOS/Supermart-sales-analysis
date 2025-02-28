@@ -109,6 +109,9 @@ This dataset includes:
 5. **Open in Power bi** and explore: 
    - Charts & Graphs  
    - Key Sales Trends
-6. 
+6. **Download the dataset**:[Project 1(Supermart Sales data).docx](#)
+7. **Open in Word** and explore:
+   - Case Study
+   - Recommendation 
 
 ---
